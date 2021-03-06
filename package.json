@@ -14,10 +14,10 @@
     "dist": "yarn run clean && yarn run build"
   },
   "devDependencies": {
-    "@babel/cli": "^7.4.4",
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/cli": "^7.12.16",
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
     "babel-loader": "^8.0.6",
     "prism-react-renderer": "^0.1.6",
     "react": "^16.8.6",
